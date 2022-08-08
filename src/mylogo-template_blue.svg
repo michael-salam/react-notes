@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="203px" height="159px" viewBox="0 0 203 159" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="120" y2="43" id="gradient_1">
+      <stop offset="0%" stop-color="#6FC0EF" />
+      <stop offset="100%" stop-color="#2469AF" />
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="70" y2="159" id="gradient_2">
+      <stop offset="0%" stop-color="#6FC0EF" />
+      <stop offset="100%" stop-color="#2469AF" />
+    </linearGradient>
+  </defs>
+  <g id="Group">
+    <path d="M0 0L120 0L120 43L0 43L0 0Z" id="Rectangle" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+    <path d="M0 58L120 58L120 101L0 101L0 58Z" id="Rectangle-Copy" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+    <path d="M0 116L120 116L120 159L0 159L0 116Z" id="Rectangle-Copy-2" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+    <path d="M133 0L203 0L203 159L133 159L133 0Z" id="Rectangle-3" fill="url(#gradient_2)" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>
