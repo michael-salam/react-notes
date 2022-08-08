@@ -27,7 +27,7 @@ function LikeDislikeCounter() {
       <span className="mx-2">{likeCount}</span>
       <button onClick={increaseDislikeHandler} className="btn btn-danger btn-sm">Dislike</button>
       <span className="mx-2">{dislikeCount}</span>
-      <span className="text-secondary">Made by 9SYCH!_</span>
+      <span className="text-secondary">Made by Michael Salam</span>
     </div>
   )
 }
